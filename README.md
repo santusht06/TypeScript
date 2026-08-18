@@ -40,11 +40,11 @@ npm install -D typescript@next
 Most bug fixes should be submitted to the [typescript-go](https://github.com/microsoft/TypeScript-go) repository.
 Feature additions and behavioral changes are currently on pause until TypeScript 7.0 is completed.
 
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
 * Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
 * Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
 * Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
+* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
+* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
 the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
