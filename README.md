@@ -14,11 +14,11 @@
 
 Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
 
+## Installing
+
 For the latest stable version:
 
 ```bash
-npm install -D typescript
-```
 
 For our nightly builds:
 
@@ -58,3 +58,4 @@ with any additional questions or comments.
 
 ## Roadmap
 
+For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
