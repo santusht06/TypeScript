@@ -34,12 +34,12 @@ npm install -D typescript@next
 
  * Crashes that were introduced in 5.9 or 6.0 that *also* repro in 7.0 *and* have a portable fix *and* don't incur other behavioral changes
  * Security issues
+ * Language service crashes that substantially impact mainline usage
+ * Serious regressions from 5.9 (these must *seriously* impact a *large* proportion of users)
 
 Most bug fixes should be submitted to the [typescript-go](https://github.com/microsoft/TypeScript-go) repository.
 Feature additions and behavioral changes are currently on pause until TypeScript 7.0 is completed.
 
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
 * Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
 * Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
 * Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
