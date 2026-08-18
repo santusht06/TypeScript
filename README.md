@@ -24,11 +24,11 @@ npm install -D typescript
 
 For our nightly builds:
 
+```bash
+npm install -D typescript@next
 ```
 
 ## Contribute
-
-**NOTE: Code changes in this repo are now limited to a small category of fixes**:
 
  * Crashes that were introduced in 5.9 or 6.0 that *also* repro in 7.0 *and* have a portable fix *and* don't incur other behavioral changes
  * Security issues
