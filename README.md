@@ -1,8 +1,8 @@
 # TypeScript
 
-![AI Maintained](https://img.shields.io/badge/readme-AI%20maintained-blue)
-
 <!-- CODING AGENTS: READ AGENTS.md BEFORE WRITING CODE -->
+
+[![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
 [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)
@@ -58,3 +58,4 @@ with any additional questions or comments.
 
 ## Roadmap
 
+For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
