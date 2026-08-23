@@ -1,7 +1,5 @@
 # TypeScript
 
-<!-- CODING AGENTS: READ AGENTS.md BEFORE WRITING CODE -->
-
 [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
 [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
@@ -13,13 +11,25 @@ Find others who are using TypeScript on our [community page](https://www.typescr
 
 ## Installing
 
-For the latest stable version:
+### npm
 
 ```bash
 npm install -D typescript
 ```
 
-For nightly builds:
+### Yarn
+
+```bash
+yarn add -D typescript
+```
+
+### pnpm
+
+```bash
+pnpm add -D typescript
+```
+
+#### Nightly builds
 
 ```bash
 npm install -D typescript@next
@@ -36,11 +46,11 @@ npm install -D typescript@next
 
 Most bug fixes should be submitted to the [typescript-go](https://github.com/microsoft/TypeScript-go) repository. Feature additions and behavioral changes are on pause until TypeScript 7.0 is released.
 
-There are many ways to contribute to TypeScript:
+### Ways to help
 
-- [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help verify fixes.  
+- [Submit bugs](https://github.com/microsoft/TypeScript/issues) and verify fixes.  
 - Review [pull requests](https://github.com/microsoft/TypeScript/pulls).  
-- Engage with the community on [Stack Overflow](https://stackoverflow.com/questions/tagged/typescript).  
+- Answer questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/typescript).  
 - Join the [TypeScript Community Discord](https://discord.gg/typescript).  
 - Participate in the [#typescript discussion on X (formerly Twitter)](https://twitter.com/search?q=%23TypeScript).  
 - Follow the detailed guidelines in our [CONTRIBUTING.md](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
