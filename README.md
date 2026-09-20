@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)
 
-[TypeScript](https://www.typescriptlang.org/) is a language for application‑scale JavaScript. It adds optional types to JavaScript and provides tooling for large‑scale applications on any browser, host, or operating system. TypeScript compiles to readable, standards‑based JavaScript. Try it out in the [playground](https://www.typescriptlang.org/play/), stay up to date via the [official blog](https://devblogs.microsoft.com/typescript/), and follow the [X (formerly Twitter) account](https://twitter.com/typescript).
+[TypeScript](https://www.typescriptlang.org/) is a language for application‑scale JavaScript. It adds optional types to JavaScript and provides tooling for large‑scale applications on any browser, host, or operating system. TypeScript compiles to readable, standards‑based JavaScript. Try it out in the [playground](https://www.typescriptlang.org/play/), stay up to date via the [official blog](https://devblogs.microsoft.com/typescript/), and follow the [X (formerly Twitter) account](https://x.com/typescript).
 
 Find others who are using TypeScript on our [community page](https://www.typescriptlang.org/community/).
 
@@ -52,7 +52,7 @@ Most bug fixes should be submitted to the [typescript-go](https://github.com/mic
 - Review [pull requests](https://github.com/microsoft/TypeScript/pulls).  
 - Answer questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/typescript).  
 - Join the [TypeScript Community Discord](https://discord.gg/typescript).  
-- Participate in the [#typescript discussion on X (formerly Twitter)](https://twitter.com/search?q=%23TypeScript).  
+- Participate in the [#typescript discussion on X (formerly Twitter)](https://x.com/search?q=%23TypeScript).  
 - Follow the detailed guidelines in our [CONTRIBUTING.md](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
 
 This project adheres to the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any questions.
